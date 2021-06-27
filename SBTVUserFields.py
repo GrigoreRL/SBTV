@@ -1,6 +1,6 @@
 import numpy as np
 from numba import jit,njit
-### An example file of how custom user-defined fields should look like in the file.
+### An example file of how custom user-defined fields should look like.
 @njit
 def E_func_user(q,t,fparams):
     omega_x = fparams[0]

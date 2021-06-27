@@ -1,4 +1,4 @@
-# SBTV
+# SBTV - Simple Boris Trajectory Viewer
 
 SBTV is a simple application for the visualization of charged particle trajectories. 
 

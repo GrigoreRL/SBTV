@@ -9,3 +9,5 @@ To run SBTV using the code present here, simply download the entire repository a
 "python mainFile.py" 
 
 in your Python environment. This should start up the application.
+
+SBTV was developed as part of my Bachelor thesis in Physics at the University of Groningen. 
